@@ -1,2 +1,2 @@
-# Androd
+# Android
 This is Android projects repositry.
